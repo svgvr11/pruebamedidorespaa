@@ -1,0 +1,13 @@
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligentePrueba\obj\Debug\MedidorInteligentePrueba.csproj.AssemblyReference.cache
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligentePrueba\obj\Debug\MedidorInteligentePrueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligentePrueba\obj\Debug\MedidorInteligentePrueba.csproj.CoreCompileInputs.cache
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligentePrueba\bin\Debug\MedidorInteligentePrueba.exe.config
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligentePrueba\bin\Debug\MedidorInteligentePrueba.exe
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligentePrueba\bin\Debug\MedidorInteligentePrueba.pdb
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligentePrueba\bin\Debug\MedidorInteligenteModel.dll
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligentePrueba\bin\Debug\MedidorInteligenteModel.pdb
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligentePrueba\obj\Debug\MedidorInteligentePrueba.csproj.CopyComplete
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligentePrueba\obj\Debug\MedidorInteligentePrueba.exe
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligentePrueba\obj\Debug\MedidorInteligentePrueba.pdb
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligentePrueba\bin\Debug\ServerSocketUtils.dll
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligentePrueba\bin\Debug\ServerSocketUtils.pdb

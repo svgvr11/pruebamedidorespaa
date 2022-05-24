@@ -1,0 +1,6 @@
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligenteModel\bin\Debug\MedidorInteligenteModel.dll
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligenteModel\bin\Debug\MedidorInteligenteModel.pdb
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligenteModel\obj\Debug\MedidorInteligenteModel.csproj.AssemblyReference.cache
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligenteModel\obj\Debug\MedidorInteligenteModel.csproj.CoreCompileInputs.cache
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligenteModel\obj\Debug\MedidorInteligenteModel.dll
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\MedidorInteligentePrueba\MedidorInteligenteModel\obj\Debug\MedidorInteligenteModel.pdb
